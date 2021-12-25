@@ -1,6 +1,8 @@
 <h1 align="center">yo 💛, I'm Thounny</h1>
 <h3 align="center">full-stack developer</h3>
 
+<img src="https://i.imgur.com/Mw2TEPC.gif">
+
 - 🔭 I’m currently working on **blog/note taking web app**
 
 - 🌱 I’m currently learning **React**
@@ -27,3 +29,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thounny&show_icons=true&locale=en" alt="thounny" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thounny&" alt="thounny" /></p>
+
+
+<a href="https://www.twitch.tv/tsuboi_" target="_blank"><img src="https://cyber.dabamos.de/88x31/lulu.gif" align="left"></a>
+
+<a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" target="_blank"><img src="https://cyber.dabamos.de/88x31/frank.gif" align="left"></a>
+<a href="https://neocities.org/browse" target="_blank"><img src="https://cyber.dabamos.de/88x31/logo006.gif" align="left"></a>
+<a href="https://thounny.neocities.org/" target="_blank"><img src="https://cyber.dabamos.de/88x31/insanity.gif"></a>
+          
