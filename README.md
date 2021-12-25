@@ -1,8 +1,10 @@
 <h1 align="center">yo 💛, I'm Thounny</h1>
 <h3 align="center">full-stack developer</h3>
 
+<p align="center">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
-
+</p>
+                                          
 - 🔭 I’m currently working on **blog/note taking web app for students (free)**
 
 - 🌱 I’m currently learning **React**
