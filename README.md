@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/Mw2TEPC.gif">
 
-- 🔭 I’m currently working on **blog/note taking web app**
+- 🔭 I’m currently working on **blog/note taking web app for students (free)**
 
 - 🌱 I’m currently learning **React**
 
