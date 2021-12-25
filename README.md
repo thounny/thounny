@@ -31,9 +31,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thounny&" alt="thounny" /></p>
 
 
-<a href="https://www.twitch.tv/tsuboi_" target="_blank"><img src="https://cyber.dabamos.de/88x31/lulu.gif" align="left"></a>
+<a href="https://www.twitch.tv/tsuboi_" target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/lulu.gif" align="left"> </a>
 
-<a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" target="_blank"><img src="https://cyber.dabamos.de/88x31/frank.gif" align="left"></a>
-<a href="https://neocities.org/browse" target="_blank"><img src="https://cyber.dabamos.de/88x31/logo006.gif" align="left"></a>
-<a href="https://thounny.neocities.org/" target="_blank"><img src="https://cyber.dabamos.de/88x31/insanity.gif"></a>
+<a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/frank.gif" align="left"> </a>
+<a href="https://neocities.org/browse" target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/logo006.gif" align="left"> </a>
+<a href="https://thounny.neocities.org/" target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/insanity.gif"> </a>
           
