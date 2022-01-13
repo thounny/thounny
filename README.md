@@ -1,4 +1,4 @@
-<h1 align="center">yo 💛, I'm Thounny</h1>
+<h1 align="center">I'm Thounny</h1>
 <h3 align="center">full-stack developer</h3>
 
 <p align="center">
