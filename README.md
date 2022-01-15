@@ -1,5 +1,5 @@
 <h1 align="center">I'm Thounny</h1>
-<h3 align="center">full-stack developer</h3>
+<h3 align="center">full-stack developer/creative</h3>
 
 <p align="center">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
