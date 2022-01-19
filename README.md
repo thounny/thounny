@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&height=60&lines=I'm+Thounny;full-stack+developer%2Fcreator)](https://git.io/typing-svg)
 
+![Visitor Count](https : //profile-counter.glitch.me/thounny/count.svg)
+
 <p align="left">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
 </p>
