@@ -42,6 +42,20 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thounny&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDD00)](https://git.io/streak-stats)
 
+```javascript
+const khmer = {
+  pronouns: "they" | "them",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Express],
+  cool: {
+                        cofounder: "Doomsday Protocol",
+                        video: "thounny",
+                        mentor: "neocities"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 
 
 <a href="https://www.twitch.tv/tsuboi_" target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/lulu.gif" align="left"> </a>
