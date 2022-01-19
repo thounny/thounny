@@ -54,13 +54,15 @@ const khmer = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
 <h3>listening to:</h3>
+
+[![Spotify](https://novatorem-j7vzz2yoc-thounny.vercel.app/api/spotify)](https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss)
 
 <table width="100%"> 
   <tr>
   <td width="50%">
 
-[![Spotify](https://novatorem-j7vzz2yoc-thounny.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
   </td>
