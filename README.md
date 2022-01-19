@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&height=60&lines=I'm+Thounny;full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&height=60&lines=I'm+Thounny;full-stack+developer%2Fcreator)](https://git.io/typing-svg)
 
 <p align="left">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
@@ -54,6 +54,8 @@ const khmer = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+<h3>listening to:</h3>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajgwi60xoigzrt53jvqpqh8ss&cover_image=true&theme=novatorem&bar_color=1dd720&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
