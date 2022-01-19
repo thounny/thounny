@@ -51,7 +51,7 @@ const khmer = {
                         video: "hi-8",
                         mentor: "neocities"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "code everyday and create"
 }
 ```
 
