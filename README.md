@@ -56,7 +56,8 @@ const khmer = {
 ```
 <h3>listening to:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajgwi60xoigzrt53jvqpqh8ss&cover_image=true&theme=novatorem&bar_color=1dd720&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+
 
 <div align="center">
 <p></p>
