@@ -56,7 +56,14 @@ const khmer = {
 ```
 <h3>listening to:</h3>
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss)
+
+  </td>
+  <td width="50%">
 
 
 <div align="center">
