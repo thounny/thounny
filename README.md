@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&vCenter=true&width=500&height=100&lines=I'm+Thounny)](https://git.io/typing-svg)<h3 align="center">full-stack developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&width=500&lines=I'm+Thounny)](https://git.io/typing-svg)
+<h3 align="center">full-stack developer</h3>
 
 <p align="center">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
