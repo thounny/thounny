@@ -55,7 +55,6 @@ const khmer = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-<h3>what i'm listening to:</h3>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajgwi60xoigzrt53jvqpqh8ss&cover_image=true&theme=novatorem&bar_color=fff942&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
