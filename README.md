@@ -37,7 +37,7 @@
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
 
-[![thounny's GitHub stats](https://github-readme-stats.vercel.app/api?username=thounny)](https://github.com/thounny/github-readme-stats)
+[![thounny's GitHub stats](https://github-readme-stats.vercel.app/api?username=thounny&theme=aura&show_icons=true)](https://github.com/thounny/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thounny&" alt="thounny" /></p>
