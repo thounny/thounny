@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&lines=I'm+Thounny)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&lines=I'm+Thounny)](https://git.io/typing-svg)
 <h3 align="center">full-stack developer</h3>
 
 <p align="center">
