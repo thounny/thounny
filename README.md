@@ -60,7 +60,7 @@ const khmer = {
   <tr>
   <td width="50%">
 
-[![Spotify](https://thounny.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-j7vzz2yoc-thounny.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
   </td>
