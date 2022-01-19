@@ -80,6 +80,5 @@ const khmer = {
 <a href="https://neocities.org/browse" target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/logo006.gif" align="left"> </a>
 <a href="https://thounny.neocities.org/" target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/insanity.gif"> </a>
     
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/thounny)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
+
           
