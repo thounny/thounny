@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&lines=I'm+Thounny;full-stack+developer)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="right">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
 </p>
                                           
