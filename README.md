@@ -45,10 +45,10 @@
 const khmer = {
   pronouns: "they" | "them",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Express],
-  cool: {
+  tools: [React, Node, Express],
+  pog: {
                         cofounder: "Doomsday Protocol",
-                        video: "thounny",
+                        video: "hi-8",
                         mentor: "neocities"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
