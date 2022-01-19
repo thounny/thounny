@@ -56,6 +56,8 @@ const khmer = {
 }
 ```
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajgwi60xoigzrt53jvqpqh8ss&cover_image=true&theme=natemoo-re&bar_color=fff942&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <div align="center">
 <p></p>
 <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
