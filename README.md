@@ -60,7 +60,7 @@ const khmer = {
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss)
+[![Spotify](https://vercel.com/thounny/novatorem/FiWyEPngUdbmgGQhJQonySnZMxhF/api/spotify)](https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss)
 
   </td>
   <td width="50%">
