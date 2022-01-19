@@ -57,7 +57,8 @@ const khmer = {
 
 <h3>listening to:</h3>
 
-[![Spotify](https://now-playing-thounny.vercel.app/api/spotify)](https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss)
+[<img src="https://now-playing-thounny.vercel.app/api/spotify-playing" alt="thounny Spotify Playing" width="350" />]
+(https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss)
 
 <table width="100%"> 
   <tr>
