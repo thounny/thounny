@@ -51,7 +51,7 @@ const khmer = {
                         video: "hi-8",
                         mentor: "neocities"
                       },
- challenge: "code everyday and create"
+ challenge: "code everyday and create."
 }
 ```
 
