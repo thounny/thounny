@@ -61,7 +61,7 @@ const khmer = {
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](http://spotify-now-playing-thounny.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ajgwi60xoigzrt53jvqpqh8ss&unique={true|1|on|yes})
 
   </td>
   <td width="50%">
