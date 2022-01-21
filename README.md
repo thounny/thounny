@@ -3,6 +3,10 @@
 <p align="left">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
 </p>
+
+<p align="right">
+<img src="https://64.media.tumblr.com/tumblr_l0g64fRG0h1qzylvvo1_400.gifv">
+</p>
                                           
  📹 I’m currently working on **blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project** 
 
