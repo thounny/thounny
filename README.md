@@ -60,7 +60,7 @@
  <img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="1000">
 </div>
 <br />
-<div style="display: inline;">
+<div style="display: grid;">
 <img src="https://web.archive.org/web/20090829180211/http://geocities.com/khurram_09/ads/visualNET.gif" align="right">
 <img src="https://web.archive.org/web/20090829135855/http://geocities.com/weirdtab/ucbar.gif" align="right">
 <a href="http://allyoucaneat.restaurant/index.html"><img src="https://web.archive.org/web/20090830174218/http://geocities.com/annettescam/adultlinks.gif" align="right"></a>
