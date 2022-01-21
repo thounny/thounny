@@ -41,7 +41,7 @@
 </p>
 <br />
 <div style="display: flex; padding: 100px;" align="center">
-<img src="https://web.archive.org/web/20091027113322/http://hk.geocities.com/wendyma0904/clothes_border.gif" width="1000">
+<img src="https://web.archive.org/web/20091027113322im_/http://hk.geocities.com/wendyma0904/clothes_border.gif" width="1000">
 </div>
 
 <div style="display: flex;"><h3 align="center">languages and tools:</h3>
