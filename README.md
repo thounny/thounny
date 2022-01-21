@@ -61,7 +61,7 @@
 </div>
 <br />
 <img src="https://web.archive.org/web/20090829135855/http://geocities.com/weirdtab/ucbar.gif" align="right">
-<img src="https://web.archive.org/web/20091027015955/http://uk.geocities.com/livedownload247/musiclargesidebanner.gif" align="right">
+<img src="https://web.archive.org/web/20091027015955/http://uk.geocities.com/livedownload247/musiclargesidebanner.gif">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thounny&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thounny" /></p>
 
 [![thounny's GitHub stats](https://github-readme-stats.vercel.app/api?username=thounny&theme=nightowl&show_icons=true)](https://github.com/thounny/github-readme-stats)
