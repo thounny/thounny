@@ -86,7 +86,7 @@ const khmer = {
 
 <br />
 
-<img src="https://i.pinimg.com/564x/41/e6/9f/41e69ff2c459d98a10e8b86e4ee2033c.jpg">
+<img src="http://www.overheadcompartment.org/wp-content/uploads/2014/02/5i.gif">
 
 
 
