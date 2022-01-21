@@ -9,6 +9,10 @@
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 </div>
+
+<p align="right">
+<img src="https://64.media.tumblr.com/9e7dbb7a732cc22e351b8aba3cdabfc4/tumblr_ou5posw6WW1w39ueyo2_400.gifv">
+</p>
                                           
  📹 I’m currently working on **blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project** 
 
