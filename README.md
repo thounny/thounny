@@ -84,7 +84,9 @@ const khmer = {
 <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center" :target="_blank">
 </div>
 
-<br>
+<br />
+
+<img src="https://i.pinimg.com/564x/41/e6/9f/41e69ff2c459d98a10e8b86e4ee2033c.jpg" align="left">
 
 
 
