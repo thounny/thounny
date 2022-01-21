@@ -103,9 +103,9 @@ const khmer = {
 <br />
 
 
-<a href="https://www.twitch.tv/tsuboi_" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/lulu.gif" align=""> </a>
-<a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/frank.gif" align=""> </a>
-<a href="https://neocities.org/browse" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/logo006.gif" align=""> </a>
+<a href="https://www.twitch.tv/tsuboi_" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/lulu.gif"> </a>
+<a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/frank.gif"> </a>
+<a href="https://neocities.org/browse" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/logo006.gif"> </a>
 <a href="https://thounny.neocities.org/" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/insanity.gif"></a>
 
 <div align="center">
