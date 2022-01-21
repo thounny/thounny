@@ -14,7 +14,9 @@
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 </div>
 
-<img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif" align="center">
+<div style="display: flex;" align="center">
+<img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif">
+</div>
 
 <div align="center">
  📹 I’m currently working on a blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project
