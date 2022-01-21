@@ -134,6 +134,7 @@ const khmer = {
 <img src="https://web.archive.org/web/20091016215916/http://www.geocities.com/imilacradio/c24f7ddef429608cd1858de02abdf567.gif">
 <img src="https://web.archive.org/web/20090831103008/http://geocities.com/japan_casino/Japanese.gif">
 <img src="https://web.archive.org/web/20031026185559/http://www.geocities.com:80/veevintage/almabanneraddesign.gif">
+<img src="https://web.archive.org/web/20091026210721/http://de.geocities.com/boysforsale/images/celebrit.gif">
 </div>
  
 
