@@ -66,6 +66,8 @@ const khmer = {
 }
 ```
 
+<img src="http://www.overheadcompartment.org/wp-content/uploads/2014/02/5i.gif">
+
 <h3>listening to:</h3>
 
 <table width="100%"> 
@@ -85,9 +87,6 @@ const khmer = {
 </div>
 
 <br />
-
-<img src="http://www.overheadcompartment.org/wp-content/uploads/2014/02/5i.gif">
-
 
 
 <a href="https://www.twitch.tv/tsuboi_" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/lulu.gif" align="left"> </a>
