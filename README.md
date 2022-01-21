@@ -66,8 +66,6 @@ const khmer = {
 }
 ```
 
-<img src="http://www.overheadcompartment.org/wp-content/uploads/2014/02/5i.gif">
-
 <h3>listening to:</h3>
 
 <table width="100%"> 
@@ -99,5 +97,8 @@ const khmer = {
 <img src="https://64.media.tumblr.com/9e7dbb7a732cc22e351b8aba3cdabfc4/tumblr_ou5posw6WW1w39ueyo2_400.gifv">
 </a>
 </div>
+   
+<img src="http://www.overheadcompartment.org/wp-content/uploads/2014/02/5i.gif">
+
 
           
