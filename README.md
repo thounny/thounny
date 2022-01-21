@@ -52,7 +52,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thounny&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDD00)](https://git.io/streak-stats)
 
-<img src="https://64.media.tumblr.com/b74507fbc64024247444f632ba8844af/tumblr_nbyc20Lc091ssby0io1_500.gifv" align="right" width="50px">
+<img src="https://64.media.tumblr.com/b74507fbc64024247444f632ba8844af/tumblr_nbyc20Lc091ssby0io1_500.gifv" align="right" width="100px">
 
 ```javascript
 const khmer = {
