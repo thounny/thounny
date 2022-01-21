@@ -20,12 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/thounny-the-typescripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thounny-the-typescripter" height="30" width="40" /></a>
-<a href="https://dev.to/thounny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thounny" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thounny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thounny" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17294804/thounny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thounny" height="30" width="40" /></a>
-<a href="https://codesandbox.com/thounny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="thounny" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thounny" height="30" width="40" /></a>
+<a href="https://codepen.io/thounny-the-typescripter" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thounny-the-typescripter" height="30" width="40" /></a>
+<a href="https://dev.to/thounny" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thounny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thounny" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thounny" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17294804/thounny" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thounny" height="30" width="40" /></a>
+<a href="https://codesandbox.com/thounny" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="thounny" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thounny" height="30" width="40" /></a>
 </p>
 
 
@@ -79,7 +79,7 @@ const khmer = {
 <div align="center">
 <p></p>
 <!--  def my github page pog  -->
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center" :target="_blank">
 </div>
 
 <br>
