@@ -93,8 +93,8 @@ const khmer = {
 <a href="https://neocities.org/browse" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/logo006.gif" align="left"> </a>
 <a href="https://thounny.neocities.org/" :target="_blank" rel="noreferrer"> <img src="https://cyber.dabamos.de/88x31/insanity.gif"> </a>
 
-<p align="center">
-<img src="https://64.media.tumblr.com/9e7dbb7a732cc22e351b8aba3cdabfc4/tumblr_ou5posw6WW1w39ueyo2_400.gifv" href="https://cyber.dabamos.de/88x31/">
-</p>
+<a href="https://cyber.dabamos.de/88x31/" align="center">
+<img src="https://64.media.tumblr.com/9e7dbb7a732cc22e351b8aba3cdabfc4/tumblr_ou5posw6WW1w39ueyo2_400.gifv">
+</a>
 
           
