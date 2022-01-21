@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/Mw2TEPC.gif">
 </p>
                                           
- 📹 I’m currently working on **blog/note taking web app for students [free] and a PC98 Visual Novel Project** 
+ 📹 I’m currently working on **blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project** 
 
  📺 I’m currently learning **React**
 
