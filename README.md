@@ -9,14 +9,13 @@
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 </div>
-                                          
+
+<div align="center">
  📹 I’m currently working on **blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project** 
-
  📺 I’m currently learning **React**
-
  🤝 I’m looking for help with [video generated apps](https://www.mvgen.com/) and with a PC98 inspired Visual Novel
-
  📫 How to reach me **thounnykeo@gmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
