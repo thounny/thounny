@@ -15,7 +15,7 @@
  <br>
  📺 I’m currently learning React
  <br>
- 🤝 I’m looking for help with a PC98 inspired Visual Novel and video generated apps like <a href="https://www.mvgen.com/">[MVGEN]</a>
+ 🤝 I’m looking for help with a PC98 inspired Visual Novel and video generated apps like <a href="https://www.mvgen.com/">MVGEN</a>
  <br>
  📫 How to reach me <a href="mailto:thounnykeo@gmail.com">thounnykeo@gmail.com</a>
 </div>
