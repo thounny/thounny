@@ -120,6 +120,7 @@ const khmer = {
    
 <img src="https://web.archive.org/web/20090723025156/http://www.geocities.com/clefairymon/eyeadbanner.gif">
 <img src="https://web.archive.org/web/20091021125040/http://www.geocities.com/cube_haven/addesign.gif">
+<img src="https://web.archive.org/web/20000928225808/http://www.geocities.com:80/TimesSquare/Battlefield/3952/adanim.gif">
  
 
    
