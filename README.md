@@ -39,7 +39,7 @@
 </p>
 <br />
 <div style="display: flex; padding: 100px;" align="center">
-<img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="1000" transform="rotateX(180deg);">
+<img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif" width="1000">
 </div>
 
 <div style="display: flex;"><h3 align="center">languages and tools:</h3>
@@ -56,7 +56,7 @@
 </div>
 <br />
 <div style="display: flex;" align="center">
-<img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif">
+ <img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="1000">
 </div>
 <br>
 
