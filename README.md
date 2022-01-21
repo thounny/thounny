@@ -60,12 +60,12 @@
  <img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="1000">
 </div>
 <br />
-<img src="https://web.archive.org/web/20090829180211/http://geocities.com/khurram_09/ads/visualNET.gif" style="display: grid;" align="right">
-<img src="https://web.archive.org/web/20090829135855/http://geocities.com/weirdtab/ucbar.gif" style="display: grid;" align="right">
-<a href="http://allyoucaneat.restaurant/index.html"><img src="https://web.archive.org/web/20090830174218/http://geocities.com/annettescam/adultlinks.gif" style="display: grid;" align="right"></a>
-<img src="https://web.archive.org/web/20090820105158/http://geocities.com/crusty7013/javascript.gif" style="display: grid;" align="right">
+<img src="https://web.archive.org/web/20090829180211/http://geocities.com/khurram_09/ads/visualNET.gif" align="right">
+<img src="https://web.archive.org/web/20090829135855/http://geocities.com/weirdtab/ucbar.gif" align="right">
+<a href="http://allyoucaneat.restaurant/index.html"><img src="https://web.archive.org/web/20090830174218/http://geocities.com/annettescam/adultlinks.gif" align="right"></a>
+<img src="https://web.archive.org/web/20090820105158/http://geocities.com/crusty7013/javascript.gif" align="right">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thounny&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thounny" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thounny&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thounny" /></p>
 
 [![thounny's GitHub stats](https://github-readme-stats.vercel.app/api?username=thounny&theme=nightowl&show_icons=true)](https://github.com/thounny/github-readme-stats)
 
