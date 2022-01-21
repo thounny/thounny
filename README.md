@@ -39,7 +39,7 @@
 </p>
 <br />
 <div style="display: flex; padding: 100px;" align="center">
-<img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="1000" transform= "scaleX(-1);">
+<img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="1000" transform="rotateX(180deg);">
 </div>
 
 <div style="display: flex;"><h3 align="center">languages and tools:</h3>
