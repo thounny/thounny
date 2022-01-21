@@ -4,11 +4,11 @@
 <img src="https://i.imgur.com/Mw2TEPC.gif">
 </p>
                                           
-- 🔭 I’m currently working on **blog/note taking web app for students (free)**
+- 🔭 I’m currently working on **blog/note taking web app for students [free]** 
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with [video generated apps](https://www.mvgen.com/)
+- 🤝 I’m looking for help with [video generated apps](https://www.mvgen.com/) and PC98 Visual Novel
 
 - 📫 How to reach me **thounnykeo@gmail.com**
 
