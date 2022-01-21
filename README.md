@@ -12,11 +12,11 @@
 
 <div align="center">
  📹 I’m currently working on a blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project
- <br>
+ <br />
  📺 I’m currently learning React
- <br>
+ <br />
  🤝 I’m looking for help with a PC98 inspired Visual Novel and video generated apps like <a href="https://www.mvgen.com/">MVGEN</a>
- <br>
+ <br />
  📫 How to reach me <a href="mailto:thounnykeo@gmail.com">thounnykeo@gmail.com</a>
 </div>
 
