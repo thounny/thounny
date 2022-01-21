@@ -1,3 +1,5 @@
+<img src="https://web.archive.org/web/20090829160259/http://geocities.com/Area51/Zone/1227/welcome2.gif" align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&height=60&lines=I'm+Thounny;full-stack+developer%2Fcreator)](https://git.io/typing-svg)
 
 <p align="left">
