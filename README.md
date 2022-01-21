@@ -68,7 +68,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thounny&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDD00)](https://git.io/streak-stats)
 
-<img src="https://web.archive.org/web/20040824105216/http://www.geocities.com/firegator01/windowscasinosmall.gif">
 
 <img src="https://64.media.tumblr.com/b74507fbc64024247444f632ba8844af/tumblr_nbyc20Lc091ssby0io1_500.gifv" align="right" width="300px">
 
@@ -85,8 +84,6 @@ const khmer = {
  challenge: "code everyday and create."
 }
 ```
-
-<img src="https://web.archive.org/web/20040824105216/http://www.geocities.com/firegator01/windowscasinosmall.gif" align="right">
 
 <h3><img src="https://i.pinimg.com/originals/67/23/f5/6723f53890d821aefdd3f3c2a4ed4c09.gif" height="100px">listening to:</h3>
 
