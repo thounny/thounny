@@ -6,7 +6,7 @@
                                           
 - 📹 I’m currently working on **blog/note taking web app for students [free] and a PC98 Visual Novel Project** 
 
--  I’m currently learning **React**
+- 📺 I’m currently learning **React**
 
 - 🤝 I’m looking for help with [video generated apps](https://www.mvgen.com/) and PC98 Visual Novel
 
