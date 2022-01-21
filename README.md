@@ -14,6 +14,8 @@
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 </div>
 
+<img src="https://web.archive.org/web/20090831193120/http://geocities.com/lakesidelearners01/borderunderconst.gif" width="1000">
+
 <div align="center">
  📹 I’m currently working on a blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project
  <br />
