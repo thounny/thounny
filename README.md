@@ -20,8 +20,8 @@
  📫 How to reach me thounnykeo@gmail.com
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/thounny-the-typescripter" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thounny-the-typescripter" height="30" width="40" /></a>
 <a href="https://dev.to/thounny" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thounny" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thounny" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thounny" height="30" width="40" /></a>
