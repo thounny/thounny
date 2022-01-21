@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&height=60&lines=I'm+Thounny;full-stack+developer%2Fcreator)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Thounny!;Full+-+Stack+Web+Developer+/Creator!;Full+-+Stack+Web+Developer!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-
 <p align="left">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
 </p>
