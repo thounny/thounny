@@ -14,10 +14,6 @@
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 </div>
 
-<div style="display: flex;" align="center">
-<img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif">
-</div>
-
 <div align="center">
  📹 I’m currently working on a blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project
  <br />
@@ -26,6 +22,10 @@
  🤝 I’m looking for help with a PC98 inspired Visual Novel and video generated apps like <a href="https://www.mvgen.com/">MVGEN</a>
  <br />
  📫 How to reach me <a href="mailto:thounnykeo@gmail.com">thounnykeo@gmail.com</a>
+</div>
+
+<div style="display: flex;" align="center">
+<img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif">
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -38,6 +38,9 @@
 <a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thounny" height="30" width="40" /></a>
 </p>
 
+<div style="display: flex;" align="center">
+<img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif">
+</div>
 
 <div style="display: flex;"><h3 align="center">languages and tools:</h3>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,6 +55,9 @@
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
 
+<div style="display: flex;" align="center">
+<img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif">
+</div>
 <br>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thounny&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thounny" /></p>
