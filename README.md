@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&height=60&lines=I'm+Thounny;full-stack+developer%2Fcreator)](https://git.io/typing-svg)
+<p align="right">
+<img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
+</p>
 
 <p align="left">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
