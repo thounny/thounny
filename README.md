@@ -25,7 +25,7 @@
 </div>
 <br />
 <div style="display: flex;" align="center">
-<img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="500">
+<img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="10">
 </div>
 
 <h3 align="center">Connect with me:</h3>
