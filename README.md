@@ -116,7 +116,7 @@ const khmer = {
 <img src="https://64.media.tumblr.com/9e7dbb7a732cc22e351b8aba3cdabfc4/tumblr_ou5posw6WW1w39ueyo2_400.gifv">
 </a>
 </div>
-</td>
+</table>
    
    <img src="https://web.archive.org/web/20090723025156/http://www.geocities.com/clefairymon/eyeadbanner.gif">
 
