@@ -86,6 +86,8 @@ const khmer = {
 }
 ```
 
+<img src="https://web.archive.org/web/20040824105216/http://www.geocities.com/firegator01/windowscasinosmall.gif" align="right">
+
 <h3><img src="https://i.pinimg.com/originals/67/23/f5/6723f53890d821aefdd3f3c2a4ed4c09.gif" height="100px">listening to:</h3>
 
 <table width="100%"> 
@@ -117,7 +119,9 @@ const khmer = {
 <img src="https://64.media.tumblr.com/9e7dbb7a732cc22e351b8aba3cdabfc4/tumblr_ou5posw6WW1w39ueyo2_400.gifv">
 </a>
 </div>
-   </td>
+</td>
+   
+
    
 
 
