@@ -17,7 +17,7 @@
  <br>
  🤝 I’m looking for help with a PC98 inspired Visual Novel and video generated apps like <a href="https://www.mvgen.com/">[MVGEN]</a>
  <br>
- 📫 How to reach me <a href="@mailto:thounnykeo@gmail.com">thounnykeo@gmail.com</a>
+ <p>📫 How to reach me <a href="@mailto:thounnykeo@gmail.com">thounnykeo@gmail.com</a></p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
