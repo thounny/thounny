@@ -24,8 +24,8 @@
  📫 How to reach me <a href="mailto:thounnykeo@gmail.com">thounnykeo@gmail.com</a>
 </div>
 <br />
-<div style="display: flex;" align="center" width="500px">
-<img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif">
+<div style="display: flex;" align="center">
+<img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="500px">
 </div>
 
 <h3 align="center">Connect with me:</h3>
