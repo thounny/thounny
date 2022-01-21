@@ -10,14 +10,14 @@
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 </div>
 
-<div style="letter-spacing: 6px;" align="center">
+<div align="center">
  📹 I’m currently working on a blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project
  <br>
  📺 I’m currently learning React
  <br>
  🤝 I’m looking for help with a PC98 inspired Visual Novel and video generated apps like <a href="https://www.mvgen.com/">[MVGEN]</a>
  <br>
- <p>📫 How to reach me <a href="@mailto:thounnykeo@gmail.com">thounnykeo@gmail.com</a></p>
+ 📫 How to reach me <a href="mailto:thounnykeo@gmail.com">Email</a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
