@@ -24,7 +24,7 @@
  📫 How to reach me <a href="mailto:thounnykeo@gmail.com">thounnykeo@gmail.com</a>
 </div>
 
-<div style="display: flex;" align="center">
+<div style="display: flex; padding: 100px;" align="center">
 <img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif">
 </div>
 
@@ -38,7 +38,7 @@
 <a href="https://www.youtube.com/channel/UCTPSmsWGmrVXjVXD2DPXoUQ" :target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thounny" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex;" align="center">
+<div style="display: flex; padding: 100px;" align="center">
 <img src="https://web.archive.org/web/20091027102121/http://hk.geocities.com/footprints_kayi/border.gif">
 </div>
 
