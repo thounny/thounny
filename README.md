@@ -11,13 +11,13 @@
 </div>
 
 <div align="center">
- 📹 I’m currently working on ***blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project***
+ 📹 I’m currently working on a blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project
  <br>
- 📺 I’m currently learning ***React***
+ 📺 I’m currently learning React
  <br>
  🤝 I’m looking for help with [video generated apps](https://www.mvgen.com/) and with a PC98 inspired Visual Novel
  <br>
- 📫 How to reach me **thounnykeo@gmail.com**
+ 📫 How to reach me thounnykeo@gmail.com
 </div>
 
 <h3 align="left">Connect with me:</h3>
