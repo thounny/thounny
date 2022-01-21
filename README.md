@@ -104,7 +104,7 @@ const khmer = {
 <div align="center">
 <p></p>
 <!--  def my github page pog  -->
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center" :target="_blank">
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
 </div>
 
 <br />
