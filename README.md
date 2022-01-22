@@ -66,7 +66,6 @@
 <img src="https://web.archive.org/web/20090829135855/http://geocities.com/weirdtab/ucbar.gif" align="right">
 <img src="https://web.archive.org/web/20090820105158/http://geocities.com/crusty7013/javascript.gif" align="right">
 <img src="https://web.archive.org/web/20090810031720/http://www.geocities.com/lilqtnana/av-15264.gif" align="right">
-<img src="https://web.archive.org/web/20070220141926/http://www.geocities.com/fujisakinana/jac.gif" align="right">
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thounny&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thounny" /></p>
 
@@ -138,6 +137,8 @@ const khmer = {
 <img src="https://web.archive.org/web/20031026185559/http://www.geocities.com:80/veevintage/almabanneraddesign.gif">
 <img src="https://web.archive.org/web/20091026210721/http://de.geocities.com/boysforsale/images/celebrit.gif">
 <img src="https://web.archive.org/web/20090830150848/http://geocities.com/e_rick2000/girlstalk/Aisa.gif">
+<img src="https://web.archive.org/web/20070220141926/http://www.geocities.com/fujisakinana/jac.gif" align="right">
+
 </div>
  
 
