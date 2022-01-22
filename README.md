@@ -102,7 +102,8 @@ const khmer = {
 
 
 <div align="center">
-<p></p>
+<p>visitor count</p>
+<img src="https://web.archive.org/web/20000914024914/http://geocities.com:80/Colosseum/Rink/1236/Badcount.gif" align="right">
 <!--  def my github page pog  -->
 <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
 </div>
@@ -121,7 +122,6 @@ const khmer = {
 </a>
 </div>
 </table>
-<img src="https://web.archive.org/web/20000914024914/http://geocities.com:80/Colosseum/Rink/1236/Badcount.gif" align="right">
  
 <img src="https://web.archive.org/web/20090831193120/http://geocities.com/lakesidelearners01/borderunderconst.gif" width="1000">
    
