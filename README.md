@@ -65,6 +65,7 @@
 <img src="https://web.archive.org/web/20090829180211/http://geocities.com/khurram_09/ads/visualNET.gif" align="right">
 <img src="https://web.archive.org/web/20090829135855/http://geocities.com/weirdtab/ucbar.gif" align="right">
 <img src="https://web.archive.org/web/20090820105158/http://geocities.com/crusty7013/javascript.gif" align="right">
+<img src="https://web.archive.org/web/20090810031720/http://www.geocities.com/lilqtnana/av-15264.gif" align="right">
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thounny&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thounny" /></p>
 
