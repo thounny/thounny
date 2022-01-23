@@ -105,9 +105,9 @@ const khmer = {
 
 <div align="center">
 <p>visitor count</p>
-<img src="https://web.archive.org/web/20000914024914/http://geocities.com:80/Colosseum/Rink/1236/Badcount.gif">
 <!--  def my github page pog  -->
 <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://web.archive.org/web/20000914024914/http://geocities.com:80/Colosseum/Rink/1236/Badcount.gif">
 </div>
 
 <br />
