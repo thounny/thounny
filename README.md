@@ -67,6 +67,7 @@
 <img src="https://web.archive.org/web/20090820105158/http://geocities.com/crusty7013/javascript.gif" align="right">
 <img src="https://web.archive.org/web/20090810031720/http://www.geocities.com/lilqtnana/av-15264.gif" align="right">
 <img src="https://web.archive.org/web/20091027031942/http://de.geocities.com/m_tiebe/Bilder/Coding.gif" align="right">
+<img src="https://web.archive.org/web/20091026152243/http://geocities.com/Tokyo/8598/fayeyesasia.gif" align="right">
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thounny&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thounny" /></p>
 
