@@ -145,10 +145,6 @@ const khmer = {
 <a href="https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss"><img src="https://web.archive.org/web/20091026204008/http://www.geocities.com/Tokyo/Bay/3623/radiobanner1.gif"></a>
 </div>
  
- <!-- SCM Music Player https://www.scmplayer.net -->
-<script type="text/javascript" src="https://www.scmplayer.net/script.js" 
-data-config="{'skin':'https://static.tumblr.com/d41lcii/ppymevuzw/simpleblue.css','volume':50,'autoplay':false,'shuffle':false,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'yeek - lumbago','url':'https://www.youtube.com/watch?v=bOwQ7qOCPm0'},{'title':'jean dawson - power freaks','url':'https://youtu.be/6CB5BzBNKYY'}]}" ></script>
-<!-- SCM Music Player script end -->
  
 
    
