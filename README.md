@@ -81,7 +81,7 @@
 const khmer = {
   pronouns: "they" | "them",
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Express],
+  tools: [React, Node, Express, MongoDB, Bootstrap, Tailwind],
   pog: {
                         cofounder: "Doomsday Protocol",
                         video: "hi-8",
