@@ -62,7 +62,7 @@
  <img src="https://web.archive.org/web/20090831155652/http://geocities.com/jel_meow/neptuneborder.gif" width="1000">
 </div>
 <br />
-<img src="https://web.archive.org/web/20090829180211/http://geocities.com/khurram_09/ads/visualNET.gif" align="right">
+<!-- <img src="https://web.archive.org/web/20090829180211/http://geocities.com/khurram_09/ads/visualNET.gif" align="right"> -->
 <img src="https://web.archive.org/web/20090829135855/http://geocities.com/weirdtab/ucbar.gif" align="right">
 <img src="https://web.archive.org/web/20090820105158/http://geocities.com/crusty7013/javascript.gif" align="right">
 <img src="https://web.archive.org/web/20090810031720/http://www.geocities.com/lilqtnana/av-15264.gif" align="right">
