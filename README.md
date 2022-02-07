@@ -143,6 +143,7 @@ const khmer = {
 <img src="https://web.archive.org/web/20091026152243/http://geocities.com/Tokyo/8598/fayeyesasia.gif">
 <img src="https://web.archive.org/web/20091027080133/http://www.geocities.com/dbl24/banner1.gif" alt="i'm trying to stop my addiction">
 <img src="https://web.archive.org/web/20091020095331/http://hk.geocities.com/ixingcn/banner.GIF">
+<img src="https://web.archive.org/web/20091026222825/http://geocities.com/thekoreanlanguage/images/bowing.gif">
 <a href="https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss"><img src="https://web.archive.org/web/20091026204008/http://www.geocities.com/Tokyo/Bay/3623/radiobanner1.gif"></a>
 </div>
  
