@@ -148,7 +148,11 @@ const khmer = {
 </div>
  
 <div style="display: flex;" align="center">
-<img src="https://web.archive.org/web/20091026222825/http://geocities.com/thekoreanlanguage/images/bowing.gif" width="500">
+<img src="https://web.archive.org/web/20091026222825/http://geocities.com/thekoreanlanguage/images/bowing.gif" width="200">
+</div>
+
+ <div style="display: flex;" align="center">
+<img src="https://web.archive.org/web/20091020111957/http://hk.geocities.com/kawaii_cute_ai/logo1.gif">
 </div>
 
  
