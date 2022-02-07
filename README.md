@@ -146,8 +146,9 @@ const khmer = {
 <a href="https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss"><img src="https://web.archive.org/web/20091026204008/http://www.geocities.com/Tokyo/Bay/3623/radiobanner1.gif"></a>
 </div>
  
- 
- <img src="https://web.archive.org/web/20091026222825/http://geocities.com/thekoreanlanguage/images/bowing.gif">
+<div style="display: flex;" align="center">
+<img src="https://web.archive.org/web/20091026222825/http://geocities.com/thekoreanlanguage/images/bowing.gif" width="500">
+</div>
 
  
  
