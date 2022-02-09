@@ -56,6 +56,7 @@
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://web.archive.org/web/20091027065526/http://geocities.com/jurassicgame/graphics/ie.gif">
 </div>
 <br />
 <div style="display: flex;" align="center">
@@ -68,7 +69,6 @@
 <img src="https://web.archive.org/web/20090810031720/http://www.geocities.com/lilqtnana/av-15264.gif" align="right">
 <img src="https://web.archive.org/web/20091027031942/http://de.geocities.com/m_tiebe/Bilder/Coding.gif" align="right">
 <img src="https://web.archive.org/web/20090822002635/http://geocities.com/Tokyo/Springs/4166/cuteserenity.gif" align="right">
-<img src="https://web.archive.org/web/20091027065526/http://geocities.com/jurassicgame/graphics/ie.gif" align="right">
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thounny&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thounny" /></p>
 
