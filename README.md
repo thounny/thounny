@@ -56,7 +56,7 @@
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://web.archive.org/web/20091027065526/http://geocities.com/jurassicgame/graphics/ie.gif">
+  <a href="http://papertoilet.com"><img src="https://web.archive.org/web/20091027065526/http://geocities.com/jurassicgame/graphics/ie.gif"></a>
 </div>
 <br />
 <div style="display: flex;" align="center">
