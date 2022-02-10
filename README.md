@@ -79,7 +79,7 @@
 
 
 <img src="https://64.media.tumblr.com/b74507fbc64024247444f632ba8844af/tumblr_nbyc20Lc091ssby0io1_500.gifv" align="right" width="300px">
- -->
+
 ```javascript
 const khmer = {
   pronouns: "they" | "them",
