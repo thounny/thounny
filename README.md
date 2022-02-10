@@ -78,7 +78,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thounny&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDD00)](https://git.io/streak-stats)
 
 
-<!-- <img src="https://64.media.tumblr.com/b74507fbc64024247444f632ba8844af/tumblr_nbyc20Lc091ssby0io1_500.gifv" align="right" width="300px">
+<img src="https://64.media.tumblr.com/b74507fbc64024247444f632ba8844af/tumblr_nbyc20Lc091ssby0io1_500.gifv" align="right" width="300px">
  -->
 ```javascript
 const khmer = {
@@ -132,7 +132,7 @@ const khmer = {
 <img src="https://web.archive.org/web/20090831193120/http://geocities.com/lakesidelearners01/borderunderconst.gif" width="1000">
    
 <div style="display: flex;">
-<img src="https://web.archive.org/web/20090723025156/http://www.geocities.com/clefairymon/eyeadbanner.gif">
+<!-- <img src="https://web.archive.org/web/20090723025156/http://www.geocities.com/clefairymon/eyeadbanner.gif"> -->
 <img src="https://web.archive.org/web/20091021125040/http://www.geocities.com/cube_haven/addesign.gif">
 <img src="https://web.archive.org/web/20000928225808/http://www.geocities.com:80/TimesSquare/Battlefield/3952/adanim.gif">
 <img src="https://web.archive.org/web/20090830074141/http://geocities.com/Hollywood/Camera/7019/newbanner.gif">
