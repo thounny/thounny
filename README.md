@@ -147,6 +147,7 @@ const khmer = {
 <img src="https://web.archive.org/web/20091027080133/http://www.geocities.com/dbl24/banner1.gif" alt="i'm trying to stop my addiction">
 <img src="https://web.archive.org/web/20091020095331/http://hk.geocities.com/ixingcn/banner.GIF">
 <a href="https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss"><img src="https://web.archive.org/web/20091026204008/http://www.geocities.com/Tokyo/Bay/3623/radiobanner1.gif"></a>
+<img src="https://web.archive.org/web/20090830173900/http://geocities.com/Tokyo/Towers/7747/Lain/lainlogo2.gif">
 </div>
  
 <div style="display: flex;" align="center">
