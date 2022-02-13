@@ -149,7 +149,7 @@ const khmer = {
 <a href="https://open.spotify.com/user/ajgwi60xoigzrt53jvqpqh8ss"><img src="https://web.archive.org/web/20091026204008/http://www.geocities.com/Tokyo/Bay/3623/radiobanner1.gif">
 </a>
 <img src="https://web.archive.org/web/20040326211238/http://es.geocities.com:80/fullbrains/banner_lain_typelast.gif">
-<!-- <img src="https://web.archive.org/web/20090830173900/http://geocities.com/Tokyo/Towers/7747/Lain/lainlogo2.gif"> -->
+<img src="https://web.archive.org/web/20090830173900/http://geocities.com/Tokyo/Towers/7747/Lain/lainlogo2.gif">
 </div>
  
 <div style="display: flex;" align="center">
