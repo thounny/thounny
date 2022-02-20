@@ -5,6 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&height=60&lines=I'm+Thounny;full-stack+developer%2Fcreator)](https://git.io/typing-svg)
 <a href="http://allyoucaneat.restaurant/index.html"><img src="https://web.archive.org/web/20090830174218/http://geocities.com/annettescam/adultlinks.gif" align="right"></a>
 <br />
+<p align="left">
+<img src="https://web.archive.org/web/20030416115200/http://www.geocities.com:80/as_dancineyes/updated.gif">
+<img src="https://i.imgur.com/Mw2TEPC.gif">
+</p>
 
 
 <div style="display: flex;" align="center">
@@ -164,7 +168,6 @@ const khmer = {
  
  <p align="left">
 <img src="https://web.archive.org/web/20030416115200/http://www.geocities.com:80/as_dancineyes/updated.gif">
-<img src="https://i.imgur.com/Mw2TEPC.gif">
 </p>
  
  
