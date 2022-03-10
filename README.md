@@ -9,12 +9,14 @@
 <img src="https://i.imgur.com/Mw2TEPC.gif">
 </p>
 
+<!-- ciggies -->
 <div style="display: flex;" align="center">
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 <img src="https://64.media.tumblr.com/5ed220a393ba9a9e66898eb9c51778b5/tumblr_ml879tF7P31r03eaxo1_r1_500.gifv" width="50">
 </div>
 
+<!-- no ciggies -->
 <!-- <div style="display: flex;" align="center">
 <img src="https://i.imgur.com/Mw2TEPC.gif" width="50">
 <img src="https://i.imgur.com/Mw2TEPC.gif" width="50">
