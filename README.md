@@ -19,7 +19,7 @@
 <div align="center">
  📹 I’m currently working on a blog/note taking web app for students [free] and a PC98 inspired Visual Novel Project
  <br />
- 📺 I’m currently a full time Frontend Developer Student at [Year Up United](https://www.yearup.org/)
+ 📺 I’m currently a full time Frontend Developer Student at <a href="https://www.yearup.org/">Year Up United</a>
  <br />
  🤝 I’m looking for help with a PC98 inspired Visual Novel and video generated apps like <a href="https://www.mvgen.com/">MVGEN</a>
  <br />
