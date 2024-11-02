@@ -2,7 +2,7 @@
 <img src="https://web.archive.org/web/20090829160259/http://geocities.com/Area51/Zone/1227/welcome2.gif" width="500">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&duration=3000&pause=1000&color=F6F700&multiline=true&width=500&lines=My+name+is+Thounny.+;I'm+a+Creative+Developer+%26+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&duration=3000&pause=1000&color=F6F700&multiline=true&width=450&height=90&lines=My+name+is+Thounny.+;I'm+a+Creative+Developer+%26+Designer)](https://git.io/typing-svg)
 <a href="http://thounny.com" target="_blank"><img src="https://web.archive.org/web/20091027164919/http://geocities.com/raven_241/anime/lain/ani1.gif" align="right"></a>
 <br />
 <p align="left">
