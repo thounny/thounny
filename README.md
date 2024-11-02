@@ -3,7 +3,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GothicA1&color=%23F7F7F7&center=true&multiline=true&width=500&height=60&lines=I'm+Thounny;full-stack+developer%2Fcreator)](https://git.io/typing-svg)
-<a href="http://thounny.com" target="_blank"><img src="https://web.archive.org/web/20091027164919/http://geocities.com/raven_241/anime/lain/ani2.gif" align="right"></a>
+<a href="http://thounny.com" target="_blank"><img src="https://web.archive.org/web/20091027164919/http://geocities.com/raven_241/anime/lain/ani1.gif" align="right"></a>
 <br />
 <p align="left">
 <img src="https://i.imgur.com/Mw2TEPC.gif">
