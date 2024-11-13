@@ -75,8 +75,7 @@
 
 [![thounny's GitHub stats](https://github-readme-stats.vercel.app/api?username=thounny&theme=default&show_icons=true)](https://github.com/thounny/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thounny&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDD00)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thounny)](https://git.io/streak-stats)
 
 <img src="https://64.media.tumblr.com/b74507fbc64024247444f632ba8844af/tumblr_nbyc20Lc091ssby0io1_500.gifv" align="right" width="300px">
 
