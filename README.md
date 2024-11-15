@@ -75,7 +75,7 @@
 
 [![thounny's GitHub stats](https://github-readme-stats.vercel.app/api?username=thounny&theme=default&show_icons=true)](https://github.com/thounny/github-readme-stats)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thounny)]
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=thounny&theme=cobalt)](https://git.io/streak-stats)
 
 <img src="https://64.media.tumblr.com/b74507fbc64024247444f632ba8844af/tumblr_nbyc20Lc091ssby0io1_500.gifv" align="right" width="300px">
 
